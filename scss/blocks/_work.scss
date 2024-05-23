@@ -86,10 +86,12 @@
 
 @media (max-width:656px) {
     .work_item {
+        height: 404px;
         & + & {
             display: none;
         }
     }
+
     .work_section {
         padding-top: 34px;
     }
@@ -106,6 +108,6 @@
         width: 291px;
     }
     .work_list {
-        height: 394px;
+        height: 409px;
     }
 }

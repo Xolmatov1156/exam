@@ -50,6 +50,9 @@
     .stage_item img {
         display: none;
     }
+    .stage_section  {
+        margin: 0 auto;
+    }
     .stage_list {
         padding: 48px 0 125px 0;
     }
@@ -61,5 +64,11 @@
     }
     .stage_title {
         display: none;
+    }
+    .stage_footer_img {
+        height: 330px;
+    }
+    .stage_list {
+        gap: 13px;
     }
 }
